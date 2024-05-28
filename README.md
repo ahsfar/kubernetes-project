@@ -5,6 +5,4 @@ Designed and implemented end-to-end CI/CD pipeline leveraging GitHub, Jenkins, M
 
 This project is availalbe on youtube.
 
-registration-app
-<br>
-Test33
+
